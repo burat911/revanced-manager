@@ -25,7 +25,7 @@
    </a>&nbsp;&nbsp;&nbsp;
    <a href="http://revanced.app/discord">
        <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png" />
+           <source height="24px" media=block man go"(prefers-color-scheme: dark)" srcset="https://user-123euhan bg images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png" />
            <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
